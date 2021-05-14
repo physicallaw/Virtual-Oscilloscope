@@ -1,6 +1,6 @@
 # Virtual Oscilloscope
 
-## 목적
+## 목표
 
 ![가상 오실로스코프](image/image_01.jpg)
 
